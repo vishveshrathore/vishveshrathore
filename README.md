@@ -1,162 +1,205 @@
-<h1 align="center">Hi 👋, I'm Vishvesh Rathore</h1>
+<h1 align="center">Vishvesh Rathore</h1>
 
-<h3 align="center">
-Full Stack Developer | Node.js • React • Flutter • Cloud  
-Building scalable SaaS products & automation tools
-</h3>
+<p align="center">
+Full Stack Engineer • SaaS Builder • Backend Specialist
+</p>
+
+<p align="center">
+Building scalable platforms, developer tools and automation systems
+</p>
+
+<p align="center">
+
+<a href="https://vishvesh.one">Portfolio</a> • <a href="mailto:vishveshrathore20@gmail.com">Email</a> • <a href="https://linkedin.com/in/vishveshrathore20">LinkedIn</a> • <a href="https://github.com/vishveshrathore20">GitHub</a>
+
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="420" alt="Coding"/>
+<img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="420"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-🚀 Passionate Full Stack Developer focused on building scalable web applications, SaaS platforms, and automation tools.
+I am a **Full Stack Developer focused on backend engineering, SaaS products, and scalable web systems**.
 
-- 💻 Strong in **Backend Development & System Design**
-- 🔧 Building **real-world SaaS products & developer tools**
-- 📚 Currently learning **Advanced DSA, DevOps & System Design**
-- 🤝 Open to collaborate on **Backend & SaaS Projects**
-- 🌍 Portfolio: **https://vishvesh.one**
-- 📫 Email: **vishveshrathore20@gmail.com**
+My work revolves around building **production-ready platforms used by real organizations**, with a strong emphasis on **performance, automation, and system architecture**.
 
----
+Currently working on:
 
-# 💼 Professional Experience
+• SaaS platforms for recruitment and CRM
+• Resume parsing and recruitment automation systems
+• Flutter mobile applications backed by scalable APIs
 
-## 🏢 Hitkarini Sabha — Software Engineer  
-📍 Jabalpur, India | 🗓 Jun 2025 – Present  
-
-- Developed a **centralized career & recruitment portal**
-- Building a **Flutter mobile application** with scalable backend APIs
-- Designed and implemented **REST APIs using Node.js & MongoDB**
-- Created automation systems for **digital workflows and lead processing**
-- Worked closely with the **Social Media Cell** to streamline tech operations
+I enjoy solving **complex engineering problems**, building **developer tools**, and designing **efficient backend architectures**.
 
 ---
 
-## 🏢 IITGJobs.com Pvt. Ltd — Software Developer  
-📍 India | 🗓 Sep 2024 – Feb 2025  
+# Professional Experience
 
-- Built and deployed **https://iitgjobs.co.in**
-- Developed internal HR system **office.iitgjobs.co.in**
-- Automated **lead lifecycle management & CRE assignment**
-- Managed **server deployment, SSL, domain routing & security**
-- Improved operational efficiency through **workflow automation**
+### Software Engineer
+
+**Hitkarini Sabha**
+Jabalpur, India
+Jun 2025 — Present
+
+• Developed a centralized **career & recruitment management portal**
+• Building a **Flutter mobile application** integrated with backend APIs
+• Designed scalable **Node.js + MongoDB REST APIs**
+• Built automation systems for **lead processing and internal workflows**
+• Collaborated with the **Social Media & Technology team** to streamline operations
 
 ---
 
-# 🚀 Internships
+### Software Developer
 
-### 🔹 Mastek Enterprise Solutions Pvt. Ltd
+**IITGJobs.com Pvt. Ltd**
 
-**Tech Stack:** Java, JSP, Servlet, JDBC, Oracle SQL  
+Sep 2024 — Feb 2025
 
-Project: **Bookify – Online Book Management System**
+• Developed and deployed the recruitment platform
+https://iitgjobs.co.in
 
-📜 Certificate  
+• Built internal HR management system
+https://office.iitgjobs.co.in
+
+Key Contributions
+
+• Lead lifecycle automation system
+• CRE lead assignment engine
+• Backend API architecture
+• Server deployment and infrastructure management
+• SSL, domain routing and security configuration
+
+---
+
+# Internships
+
+### Mastek Enterprise Solutions Pvt Ltd
+
+Technologies
+Java • JSP • Servlet • JDBC • Oracle SQL
+
+Project
+**Bookify — Online Book Management System**
+
+Certificate
 https://drive.google.com/file/d/1Rv_ngOMVuNN8QYYICgY4w1JThIHSLSPh/view
 
 ---
 
-### 🔹 Cisco Networking Internship
+### Cisco Networking Internship
 
-**Domain:** Networking & Infrastructure  
+Domain
+Networking & Infrastructure
 
-Project: **Network Creation and Configuration**
+Project
+Network Creation and Configuration
 
-📜 Certificate  
+Certificate
 https://drive.google.com/file/d/1jIvCt7jQ5aiz6e1KsOvQ20jDzrJrfgtP/view
 
 ---
 
-### 🔹 TVM Consultancy Pvt. Ltd
+### TVM Consultancy Pvt Ltd
 
-**Tech Stack:** Node.js, Express.js, MongoDB, React  
+Tech Stack
+Node.js • Express • MongoDB • React
 
-Project: **News Application Backend**
+Project
+News Application Backend
 
-GitHub  
+GitHub
 https://github.com/vishveshrathore20/Kahan-Sandesh-Backend
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🔥 AI Resume Parser (SaaS)
+### AI Resume Parser (SaaS Platform)
 
-A powerful resume parsing system designed for recruiters.
+Production-grade resume parsing system designed for recruitment agencies and HR teams.
 
-Features:
+Core Capabilities
 
-- Bulk **PDF & DOCX resume parsing**
-- Intelligent **skill & experience extraction**
-- Export candidate data to **Excel / ATS / CRM**
-- Built for **high-volume recruitment workflows**
+• Bulk PDF and DOCX resume parsing
+• Intelligent candidate data extraction
+• Skill and experience identification
+• Excel / ATS export support
+• Designed for high-volume recruitment pipelines
 
-🌐 Live  
+Live
 https://resumeparse.in
 
 ---
 
-## 🔥 Custom CRM SaaS (Commercial Product)
+### Custom CRM SaaS Platform
 
-End-to-end CRM solution designed for sales teams.
+Enterprise CRM designed for sales teams and recruitment organizations.
 
-Key Features:
+Key Features
 
-- WhatsApp, Email & SMS automation
-- Role-based access control
-- Sales analytics dashboards
-- Lead lifecycle automation
+• WhatsApp automation
+• Email and SMS workflows
+• Lead lifecycle management
+• Role-based access control
+• Analytics dashboards
 
-Tech Stack  
+Tech Stack
 Node.js • MongoDB • React • AWS
 
 ---
 
-# 🛠 Tech Stack
+# Technology Stack
 
 ### Languages
-Java • JavaScript • SQL • C
+
+Java
+JavaScript
+SQL
+C
+
+---
 
 ### Backend
-Node.js • Express.js • REST APIs
+
+Node.js
+Express.js
+REST API Architecture
+
+---
 
 ### Frontend
-React • Flutter • HTML • CSS
+
+React
+Flutter
+HTML
+CSS
+
+---
 
 ### Databases
-MongoDB • MySQL • Oracle SQL
+
+MongoDB
+MySQL
+Oracle SQL
+
+---
 
 ### Tools & Platforms
-Git • GitHub • AWS • Linux • Cloud Deployment
+
+Git
+GitHub
+Linux
+AWS
+Cloud Deployment
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/vishveshrathore20">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-
-  <a href="https://www.instagram.com/vishvesh_203">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
-  </a>
-
-  <a href="https://www.leetcode.com/vishvesh_rathore">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
-</p>
-
----
-
-# 📊 GitHub Stats
+# GitHub Analytics
 
 <p align="center">
 
@@ -170,4 +213,28 @@ Git • GitHub • AWS • Linux • Cloud Deployment
 
 ---
 
-⭐ If you like my work, consider **starring my repositories**
+# Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/vishveshrathore20">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+</a>
+
+<a href="https://www.instagram.com/vishvesh_203">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+</a>
+
+<a href="https://www.leetcode.com/vishvesh_rathore">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you find my work useful, consider starring the repositories.
+
+</p>
