@@ -22,7 +22,7 @@ Building scalable platforms, developer tools and automation systems
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
 I am a **Full Stack Developer focused on backend engineering, SaaS products, and scalable web systems**.
 
@@ -38,13 +38,11 @@ I enjoy solving **complex engineering problems**, building **developer tools**, 
 
 ---
 
-# Professional Experience
+# 💼 Professional Experience
 
-### Software Engineer
+### 🏢 Hitkarini Sabha — Software Engineer
 
-**Hitkarini Sabha**
-Jabalpur, India
-Jun 2025 — Present
+📍 Jabalpur, India | 🗓 Jun 2025 – Present
 
 • Developed a centralized **career & recruitment management portal**
 • Building a **Flutter mobile application** integrated with backend APIs
@@ -54,13 +52,11 @@ Jun 2025 — Present
 
 ---
 
-### Software Developer
+### 🏢 IITGJobs.com Pvt. Ltd — Software Developer
 
-**IITGJobs.com Pvt. Ltd**
+🗓 Sep 2024 – Feb 2025
 
-Sep 2024 — Feb 2025
-
-• Developed and deployed the recruitment platform
+• Developed and deployed
 https://iitgjobs.co.in
 
 • Built internal HR management system
@@ -76,54 +72,13 @@ Key Contributions
 
 ---
 
-# Internships
+# 🚀 Featured Projects
 
-### Mastek Enterprise Solutions Pvt Ltd
+## 🔥 AI Resume Parser (SaaS)
 
-Technologies
-Java • JSP • Servlet • JDBC • Oracle SQL
+Production-grade resume parsing system designed for recruitment agencies.
 
-Project
-**Bookify — Online Book Management System**
-
-Certificate
-https://drive.google.com/file/d/1Rv_ngOMVuNN8QYYICgY4w1JThIHSLSPh/view
-
----
-
-### Cisco Networking Internship
-
-Domain
-Networking & Infrastructure
-
-Project
-Network Creation and Configuration
-
-Certificate
-https://drive.google.com/file/d/1jIvCt7jQ5aiz6e1KsOvQ20jDzrJrfgtP/view
-
----
-
-### TVM Consultancy Pvt Ltd
-
-Tech Stack
-Node.js • Express • MongoDB • React
-
-Project
-News Application Backend
-
-GitHub
-https://github.com/vishveshrathore20/Kahan-Sandesh-Backend
-
----
-
-# Featured Projects
-
-### AI Resume Parser (SaaS Platform)
-
-Production-grade resume parsing system designed for recruitment agencies and HR teams.
-
-Core Capabilities
+Features
 
 • Bulk PDF and DOCX resume parsing
 • Intelligent candidate data extraction
@@ -131,12 +86,12 @@ Core Capabilities
 • Excel / ATS export support
 • Designed for high-volume recruitment pipelines
 
-Live
+🌐 Live
 https://resumeparse.in
 
 ---
 
-### Custom CRM SaaS Platform
+## 🔥 Custom CRM SaaS Platform
 
 Enterprise CRM designed for sales teams and recruitment organizations.
 
@@ -146,87 +101,133 @@ Key Features
 • Email and SMS workflows
 • Lead lifecycle management
 • Role-based access control
-• Analytics dashboards
+• Sales analytics dashboards
 
 Tech Stack
 Node.js • MongoDB • React • AWS
 
 ---
 
-# Technology Stack
+# 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-Java
-JavaScript
-SQL
-C
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=java,js,html,css,c" />
 
-### Backend
-
-Node.js
-Express.js
-REST API Architecture
-
----
-
-### Frontend
-
-React
-Flutter
-HTML
-CSS
-
----
-
-### Databases
-
-MongoDB
-MySQL
-Oracle SQL
-
----
-
-### Tools & Platforms
-
-Git
-GitHub
-Linux
-AWS
-Cloud Deployment
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishveshrathore&show_icons=true&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishveshrathore&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
 
 ---
 
-# Connect
+### ⚙️ Backend & APIs
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap" />
+
+</p>
+
+---
+
+### 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,linux" />
+
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+</p>
+
+---
+
+### 🧰 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</p>
+
+---
+
+### 🧠 Concepts
+
+<p>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishveshrathore20&show_icons=true&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishveshrathore20&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
 <a href="https://linkedin.com/in/vishveshrathore20">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
 
 <a href="https://www.instagram.com/vishvesh_203">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
 
 <a href="https://www.leetcode.com/vishvesh_rathore">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="40"/>
 </a>
 
 </p>
@@ -235,6 +236,6 @@ Cloud Deployment
 
 <p align="center">
 
-⭐ If you find my work useful, consider starring the repositories.
+⭐ If you like my work, consider **starring my repositories**
 
 </p>
