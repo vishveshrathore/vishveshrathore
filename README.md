@@ -1,214 +1,224 @@
-<h1 align="center">Vishvesh Rathore</h1>
+<!-- HEADER -->
+
+<h1 align="center">Hi 👋 I'm Vishvesh Rathore</h1>
 
 <p align="center">
-Full Stack Engineer • SaaS Builder • Backend Specialist
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;Backend+%26+SaaS+Developer;Node.js+%7C+React+%7C+Flutter;Building+Scalable+Products" />
+
 </p>
 
 <p align="center">
-Building scalable platforms, developer tools and automation systems
-</p>
 
-<p align="center">
+<a href="https://vishvesh.one">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
 
-<a href="https://vishvesh.one">Portfolio</a> • <a href="mailto:vishveshrathore20@gmail.com">Email</a> • <a href="https://linkedin.com/in/vishveshrathore20">LinkedIn</a> • <a href="https://github.com/vishveshrathore20">GitHub</a>
+<a href="mailto:vishveshrathore20@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vishveshrathore20">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://resumeparse.in">
+<img src="https://img.shields.io/badge/SaaS%20Project-Resume%20Parser-blue?style=for-the-badge"/>
+</a>
 
 </p>
 
 ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" width="420"/>
-</p>
+# 🚀 About Me
 
----
+💻 Full Stack Engineer focused on **Backend Architecture, SaaS Platforms and Automation Systems**
 
-# 👨‍💻 About Me
+🔹 Building **production SaaS products used by real organizations**
+🔹 Passionate about **system design, scalable APIs and automation**
+🔹 Currently exploring **Advanced DSA, DevOps and AI-powered applications**
 
-I am a **Full Stack Developer focused on backend engineering, SaaS products, and scalable web systems**.
+### What I'm Building
 
-My work revolves around building **production-ready platforms used by real organizations**, with a strong emphasis on **performance, automation, and system architecture**.
-
-Currently working on:
-
-• SaaS platforms for recruitment and CRM
-• Resume parsing and recruitment automation systems
+• Recruitment platforms
+• Resume parsing AI systems
+• SaaS CRM automation tools
 • Flutter mobile applications backed by scalable APIs
 
-I enjoy solving **complex engineering problems**, building **developer tools**, and designing **efficient backend architectures**.
-
 ---
 
-# 💼 Professional Experience
+# 🧑‍💻 Professional Experience
 
 ### 🏢 Hitkarini Sabha — Software Engineer
 
-📍 Jabalpur, India | 🗓 Jun 2025 – Present
+📍 Jabalpur, India
+🗓 Jun 2025 – Present
 
-• Developed a centralized **career & recruitment management portal**
-• Building a **Flutter mobile application** integrated with backend APIs
-• Designed scalable **Node.js + MongoDB REST APIs**
-• Built automation systems for **lead processing and internal workflows**
-• Collaborated with the **Social Media & Technology team** to streamline operations
+• Architected a **centralized recruitment platform**
+• Engineering a **Flutter mobile app with Node.js backend**
+• Developed **25+ scalable REST APIs**
+• Reduced manual workflow overhead by **40% through automation**
+• Optimized database performance improving **API speed by 30%**
 
 ---
 
-### 🏢 IITGJobs.com Pvt. Ltd — Software Developer
+### 🏢 IITGJobs.com Pvt Ltd — Software Developer
 
 🗓 Sep 2024 – Feb 2025
 
-• Developed and deployed
-https://iitgjobs.co.in
+Built and deployed:
 
-• Built internal HR management system
-https://office.iitgjobs.co.in
+🔗 https://iitgjobs.co.in
+🔗 https://office.iitgjobs.co.in
 
-Key Contributions
+Key Work
 
-• Lead lifecycle automation system
-• CRE lead assignment engine
-• Backend API architecture
-• Server deployment and infrastructure management
-• SSL, domain routing and security configuration
+• Lead lifecycle automation
+• HR workflow orchestration system
+• CRE assignment engine
+• Operational analytics dashboards
+• Cloud infrastructure deployment
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔥 AI Resume Parser (SaaS)
+### 🧠 AI Resume Parser (SaaS)
 
-Production-grade resume parsing system designed for recruitment agencies.
+🔗 https://resumeparse.in
+
+A **production SaaS platform** capable of parsing large volumes of resumes.
 
 Features
 
-• Bulk PDF and DOCX resume parsing
-• Intelligent candidate data extraction
-• Skill and experience identification
-• Excel / ATS export support
-• Designed for high-volume recruitment pipelines
+• Bulk PDF & DOCX parsing
+• AI skill extraction
+• Candidate structured data extraction
+• CRM & ATS export
+• Subscription billing integration
 
-🌐 Live
-https://resumeparse.in
+Tech Stack
+
+Node.js • React • MongoDB • Redis • AWS
 
 ---
 
-## 🔥 Custom CRM SaaS Platform
+### 💼 CRM Automation SaaS
 
-Enterprise CRM designed for sales teams and recruitment organizations.
-
-Key Features
+Multi-channel CRM system supporting:
 
 • WhatsApp automation
-• Email and SMS workflows
-• Lead lifecycle management
-• Role-based access control
+• Email campaigns
+• SMS workflows
 • Sales analytics dashboards
+• Role-based access control
 
-Tech Stack
-Node.js • MongoDB • React • AWS
+Infrastructure
+
+AWS • DigitalOcean • Node.js
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### Languages
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,html,css,c" />
-
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 </p>
 
 ---
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge"/>
-
 </p>
 
 ---
 
-### 🎨 Frontend
+### Frontend
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,bootstrap" />
-
 </p>
 
 ---
 
-### 🗄 Databases
+### Databases
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" />
-
-<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
 
-### ☁️ Cloud & Deployment
+### Cloud & DevOps
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,linux" />
-
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,linux,docker" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
 </p>
 
 ---
 
-### 🧰 Tools
+### Tools
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
 </p>
 
 ---
 
-### 🧠 Concepts
-
-<p>
-
-<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DBMS-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
+### Concepts
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishveshrathore20&show_icons=true&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue?style=for-the-badge"/>
 
-<br/>
+<img src="https://img.shields.io/badge/System%20Design-purple?style=for-the-badge"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishveshrathore20&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/Generative%20AI-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Automation-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishveshrathore20&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishveshrathore20&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishveshrathore20&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vishveshrathore20&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -216,7 +226,7 @@ Node.js • MongoDB • React • AWS
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/vishveshrathore20">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
@@ -229,6 +239,14 @@ Node.js • MongoDB • React • AWS
 <a href="https://www.leetcode.com/vishvesh_rathore">
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="40"/>
 </a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vishveshrathore20&style=flat-square&color=blue"/>
 
 </p>
 
