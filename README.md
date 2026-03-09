@@ -196,9 +196,9 @@ AWS • DigitalOcean • Node.js
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishveshrathore20&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishveshrathore&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishveshrathore20&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishveshrathore&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -208,7 +208,7 @@ AWS • DigitalOcean • Node.js
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishveshrathore20&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishveshrathore&theme=tokyo-night"/>
 
 </p>
 
@@ -218,7 +218,7 @@ AWS • DigitalOcean • Node.js
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vishveshrathore20&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vishveshrathore&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
